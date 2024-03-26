@@ -15,6 +15,7 @@ npm i
 node proxy.js
 ```
 - Now open the **decodePdf.html** in your browser
+- FYI - Here I have use **pdf.js** as Document Viewer Library
 - Check Network tab in Dev Tools ensure all network calls are giving 200 status
 
 <img width="1440" alt="Screenshot 2024-03-27 at 1 29 31 AM" src="https://github.com/smitd21/Highlighted-Text-Display-Module/assets/62591074/4784105d-a273-4472-951f-9aaf01d9ecd6">
