@@ -8,10 +8,16 @@
 
 ```sh
 git clone https://github.com/smitd21/Highlighted-Text-Display-Module.git
+```
 
+```sh
 cd Highlighted-Text-Display-Module
+```
 
-npm i     
+```sh
+npm i
+```    
 
+```sh
 node proxy.js
 ```
